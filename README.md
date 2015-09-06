@@ -18,7 +18,7 @@ or
 
 ## Documentation
 
-You can find the docs for the API of this client at [http://mikedeboer.github.com/node-github/](http://mikedeboer.github.com/node-github/)
+You can find the docs for the API of this client att [http://mikedeboer.github.com/node-github/](http://mikedeboer.github.com/node-github/)
 
 Additionally, the [official Github documentation](https://developer.github.com/v3/)
 is a very useful resource.
